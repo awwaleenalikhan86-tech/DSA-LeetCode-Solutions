@@ -9,6 +9,7 @@ try.........
 | [0001-two-sum](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,8 @@ try.........
 |  |
 | ------- |
 | [0015-3sum](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
