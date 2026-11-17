@@ -10,6 +10,7 @@ try.........
 | [0015-3sum](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ try.........
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
