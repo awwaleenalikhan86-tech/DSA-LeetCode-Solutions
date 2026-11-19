@@ -9,6 +9,7 @@ try.........
 | [0001-two-sum](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Hash Table
@@ -51,6 +52,7 @@ try.........
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/awwaleenalikhan86-tech/DSA-LeetCode-Solutions/tree/master/0278-first-bad-version) |
 ## Interactive
